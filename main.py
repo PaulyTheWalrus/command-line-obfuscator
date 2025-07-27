@@ -1,8 +1,7 @@
-import comm_manip
-import sys 
+import random_case
 
 def main():
-    comm_manip.comm_join(comm_manip.script)
+    random_case.rand_join()
 
 main()
     
