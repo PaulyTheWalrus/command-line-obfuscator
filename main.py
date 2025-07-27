@@ -1,8 +1,8 @@
-from comm_split import comm_split, script
-from sys import argv
+import comm_manip
+import sys 
 
 def main():
-    comm_split(script)
+    comm_manip.comm_join(comm_manip.script)
 
 main()
     
