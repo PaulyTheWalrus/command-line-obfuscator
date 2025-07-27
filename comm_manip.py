@@ -1,7 +1,7 @@
-import sys
+from sys import argv
 
-script = sys.argv[1:]
+script = input("Enter script:")
 
 def comm_join():
-    join_script = " ".join(script)
+    join_script = "".join(script)
     return join_script
