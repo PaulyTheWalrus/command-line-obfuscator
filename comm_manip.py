@@ -1,4 +1,3 @@
-from sys import argv
 
 script = input("Enter script:")
 
