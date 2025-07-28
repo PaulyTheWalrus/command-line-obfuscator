@@ -1,9 +1,18 @@
 # command-line-obfuscator
-This is a work-in-progress for the 2025 Boot.Dev Hackathon
+This is a work-in-progress for the 2025 Boot.Dev Hackathon!
 
 ## About
 
-This project was inspired by [weitze](https://github.com/wietze)'s [ArgFuscator](https://github.com/wietze/ArgFuscator.net) tool. 
+This project was inspired by [weitze](https://github.com/wietze)'s [ArgFuscator](https://github.com/wietze/ArgFuscator.net) tool.
+
+## Installation
+
+The tool works as is. simply clone the repo and run main.py. At this time this project does not require the installation of any dependancies.
+
+```bash
+git clone https://github.com/PaulyTheWalrus/command-line-obfuscator.git
+cd command-line-obfuscator
+```
 
 ## How to Use:
 
